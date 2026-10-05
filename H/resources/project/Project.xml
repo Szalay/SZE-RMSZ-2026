@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project MetadataType="monolithic">
+    <Categories Location="Root">
+        <Category Location="FileClassCategory">
+            <Info DataType="None" Name="Classification" ReadOnly="1" SingleValued="1"/>
+            <Label Location="artifact">
+                <Info Name="Artifact" ReadOnly="READ_ONLY"/>
+            </Label>
+            <Label Location="convenience">
+                <Info Name="Convenience" ReadOnly="READ_ONLY"/>
+            </Label>
+            <Label Location="derived">
+                <Info Name="Derived" ReadOnly="READ_ONLY"/>
+            </Label>
+            <Label Location="design">
+                <Info Name="Design" ReadOnly="READ_ONLY"/>
+            </Label>
+            <Label Location="none">
+                <Info Name="None" ReadOnly="READ_ONLY"/>
+            </Label>
+            <Label Location="other">
+                <Info Name="Other" ReadOnly="READ_ONLY"/>
+            </Label>
+            <Label Location="test">
+                <Info Name="Test" ReadOnly="READ_ONLY"/>
+            </Label>
+        </Category>
+    </Categories>
+    <Files Location="Root">
+        <File Location="H02_Alapok.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="H02_ERR.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="H03_ERR.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="H04_ARM.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="H04_ERR.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="slprj">
+            <Info/>
+            <DIR_SIGNIFIER Location="1">
+                <Info/>
+            </DIR_SIGNIFIER>
+            <File Location="sim">
+                <Info/>
+                <DIR_SIGNIFIER Location="1">
+                    <Info/>
+                </DIR_SIGNIFIER>
+                <File Location="varcache">
+                    <Info/>
+                    <DIR_SIGNIFIER Location="1">
+                        <Info/>
+                    </DIR_SIGNIFIER>
+                    <File Location="H03_ERR">
+                        <Info/>
+                        <DIR_SIGNIFIER Location="1">
+                            <Info/>
+                        </DIR_SIGNIFIER>
+                        <File Location="checksumOfCache.mat">
+                            <Info>
+                                <Category UUID="FileClassCategory">
+                                    <Label UUID="derived"/>
+                                </Category>
+                            </Info>
+                        </File>
+                        <File Location="tmwinternal">
+                            <Info/>
+                            <DIR_SIGNIFIER Location="1">
+                                <Info/>
+                            </DIR_SIGNIFIER>
+                            <File Location="simulink_cache.xml">
+                                <Info>
+                                    <Category UUID="FileClassCategory">
+                                        <Label UUID="derived"/>
+                                    </Category>
+                                </Info>
+                            </File>
+                        </File>
+                        <File Location="varInfo.mat">
+                            <Info>
+                                <Category UUID="FileClassCategory">
+                                    <Label UUID="derived"/>
+                                </Category>
+                            </Info>
+                        </File>
+                    </File>
+                    <File Location="H04_ARM">
+                        <Info/>
+                        <DIR_SIGNIFIER Location="1">
+                            <Info/>
+                        </DIR_SIGNIFIER>
+                        <File Location="checksumOfCache.mat">
+                            <Info>
+                                <Category UUID="FileClassCategory">
+                                    <Label UUID="derived"/>
+                                </Category>
+                            </Info>
+                        </File>
+                        <File Location="tmwinternal">
+                            <Info/>
+                            <DIR_SIGNIFIER Location="1">
+                                <Info/>
+                            </DIR_SIGNIFIER>
+                            <File Location="simulink_cache.xml">
+                                <Info>
+                                    <Category UUID="FileClassCategory">
+                                        <Label UUID="derived"/>
+                                    </Category>
+                                </Info>
+                            </File>
+                        </File>
+                        <File Location="varInfo.mat">
+                            <Info>
+                                <Category UUID="FileClassCategory">
+                                    <Label UUID="derived"/>
+                                </Category>
+                            </Info>
+                        </File>
+                    </File>
+                    <File Location="H04_ERR">
+                        <Info/>
+                        <DIR_SIGNIFIER Location="1">
+                            <Info/>
+                        </DIR_SIGNIFIER>
+                        <File Location="checksumOfCache.mat">
+                            <Info>
+                                <Category UUID="FileClassCategory">
+                                    <Label UUID="derived"/>
+                                </Category>
+                            </Info>
+                        </File>
+                        <File Location="tmwinternal">
+                            <Info/>
+                            <DIR_SIGNIFIER Location="1">
+                                <Info/>
+                            </DIR_SIGNIFIER>
+                            <File Location="simulink_cache.xml">
+                                <Info>
+                                    <Category UUID="FileClassCategory">
+                                        <Label UUID="derived"/>
+                                    </Category>
+                                </Info>
+                            </File>
+                        </File>
+                        <File Location="varInfo.mat">
+                            <Info>
+                                <Category UUID="FileClassCategory">
+                                    <Label UUID="derived"/>
+                                </Category>
+                            </Info>
+                        </File>
+                    </File>
+                </File>
+            </File>
+        </File>
+    </Files>
+    <Info Location="ProjectData">
+        <Info Name="SZE-RMSZ-2026-H"/>
+    </Info>
+    <ProjectPath Location="Root">
+        <Reference Location="df783dfc-c3c7-4d38-a20e-11c07047084e">
+            <Info Ref="" Type="Relative"/>
+        </Reference>
+    </ProjectPath>
+</project>
