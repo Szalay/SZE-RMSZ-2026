@@ -179,6 +179,34 @@
                 </File>
             </File>
         </File>
+        <File Location="H05_ARM.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="H05_ERR_Szinusz.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="H06_Tekercs.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="MK_H.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
     </Files>
     <Info Location="ProjectData">
         <Info Name="SZE-RMSZ-2026-H"/>
