@@ -83,6 +83,20 @@
                 </Category>
             </Info>
         </File>
+        <File Location="SZ08_MRR_MK.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="SZ08_MRR.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
     </Files>
     <Info Location="ProjectData">
         <Info Name="SZE-RMSZ-2026-SZ"/>
