@@ -125,6 +125,20 @@
                 </Category>
             </Info>
         </File>
+        <File Location="SZ11_IS_ILS.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
+        <File Location="SZ11_RC.slx">
+            <Info>
+                <Category UUID="FileClassCategory">
+                    <Label UUID="design"/>
+                </Category>
+            </Info>
+        </File>
     </Files>
     <Info Location="ProjectData">
         <Info Name="SZE-RMSZ-2026-SZ"/>
