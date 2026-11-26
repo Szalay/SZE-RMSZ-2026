@@ -6,7 +6,7 @@
 *.mdl.r*
 
 # Derived content-obscured files
-*.p
+#*.p
 
 # Compiled MEX files
 *.mex*
